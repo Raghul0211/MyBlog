@@ -44,7 +44,7 @@ a:hover
 
 hr
 {
-  border: dotted #EAF6F6 6px;
+  border: dotted #66bfbf 6px;
   border-bottom: none;
   width: 4%;
   margin:100px auto;
@@ -71,7 +71,7 @@ img
   position: relative;
   width: 200px;
   bottom: 100px;
-  right: 100px;
+  right: 250px;
 }
 
 .middle-container
